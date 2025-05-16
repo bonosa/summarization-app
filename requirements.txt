@@ -1,0 +1,11 @@
+streamlit
+requests
+openai
+python-dotenv
+PyMuPDF
+python-docx
+elevenlabs
+bs4
+qdrant-client
+fastembed
+firecrawl
